@@ -1,4 +1,4 @@
-# FRUIT-DETECTION-PROJECT-DEEP-LEARNING
+# FRUIT-DETECTION-PROJECT-DEEP-LEARNING(GOOGLE COLAB)
 
 ## Dataset
 Fruits 360 dataset: A dataset of images containing fruits and vegetables
